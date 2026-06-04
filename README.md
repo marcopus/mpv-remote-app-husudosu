@@ -6,6 +6,8 @@
 
 MPV Remote is a mobile application for controlling MPV media player remotely running on your PC.
 
+Note: Looking for some developers who can help with maintaining the project. Unfortunately I don't have that much time anymore to maintain this project.
+
 # Features
 
 - Basic media controls,
