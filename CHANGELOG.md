@@ -65,3 +65,4 @@ Important Android stuff:
 
 - Replaced jcenter() with mavenCentral() since JCenter is deprecated.
 - Bumped cordovaAndroidVersion from 7.0.0 to 10.1.1.
+- Add more space between the media controls and make the play/pause button bigger.
