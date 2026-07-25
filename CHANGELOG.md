@@ -60,3 +60,8 @@ Important Android stuff:
 **Note about MPV versions: On older MPV versions the current chapter detection not working properly, if you experience issues with current chapter detection, please update your MPV version!**
 
 - [Feature request]: Current playing chapter in bold and has other color.
+
+## [next]
+
+- Replaced jcenter() with mavenCentral() since JCenter is deprecated.
+- Bumped cordovaAndroidVersion from 7.0.0 to 10.1.1.
